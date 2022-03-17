@@ -16,3 +16,4 @@ console.log(por2(5));
 */
 
 
+console.log("Gato" || "Perro");
